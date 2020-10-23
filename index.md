@@ -2,10 +2,10 @@
 
 - Art
 
-
-![Crybox Issue 1](https://github.com/SamSwift505/samswift505.github.io/raw/main/Crybox_V3.pdf)
+<a href="samswift505.github.io/raw/main/Crybox_V3.pdf" target="_blank">PDF.</a>
 
 - Analysis
 
+<a href="samswift505.github.io/raw/main/Swift_Recession_Fixed_Effects.pdf" target="_blank">PDF.</a>
 
-![Great Recession Study](https://github.com/SamSwift505/samswift505.github.io/raw/main/Swift_Recession_Fixed_Effects.pdf)
+
