@@ -1,8 +1,11 @@
-## **SAMUEL** 
+## **RECENT WORKS BY SAMUEL (me)** 
 
 - Art
-- Analysis
+
 
 ![Crybox Issue 1](https://github.com/SamSwift505/samswift505.github.io/raw/main/Crybox_V3.pdf)
 
-<a href="https://github.com/SamSwift505/samswift505.github.io/raw/main/Crybox_V3.pdf" class="image fit" ><img src="images/sam.jpg" alt=""></a>
+- Analysis
+
+
+![Great Recession Study](https://github.com/SamSwift505/samswift505.github.io/raw/main/Swift_Recession_Fixed_Effects.pdf)
