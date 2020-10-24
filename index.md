@@ -1,8 +1,7 @@
+##SAMUEL SWIFT, EPIDEMIOLOGIST, ART, SKATEBOARDER, FRIEND TO THE TREES##
+
 <!DOCTYPE html>
 <html>
-	<head>
-		***Samuel Swift, Epidemiologist, Skateboarder, Friend to the Trees, Drawer***
-	</head>
 	<body>
 		<nav>
     		<ul>
