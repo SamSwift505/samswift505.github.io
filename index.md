@@ -1,3 +1,4 @@
+layout: default
 ---
 title: Samuel Swift, Epidemiologist, Artist, Skateboarder, Friend to the Trees
 ---
