@@ -1,13 +1,9 @@
 ## **RECENT WORKS BY SAMUEL (me)** 
 
-- Art
-
-- Analysis
-
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Hank Quinlan, Horrible Cop</title>
+		<title>Samuel Swift, Epidemiologist, Skateboarder, Friend to the Trees, Drawer</title>
 	</head>
 	<body>
 		<nav>
@@ -21,7 +17,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>Hi there, I'm Samuel!</h1>
-				<p>I am a friend to the trees<em>LMAO AMIRITEl</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+				<p>I am a friend to the trees<em> LMAO AMIRITEl</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
