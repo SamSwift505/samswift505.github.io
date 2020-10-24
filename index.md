@@ -1,7 +1,11 @@
-### SAMUEL SWIFT, EPIDEMIOLOGIST, ART, SKATEBOARDER, FRIEND TO THE TREES ###
-
 <!DOCTYPE html>
 <html>
+	<head>
+		<title>SAMUEL SWIFT, EPIDEMIOLOGIST, ART, SKATEBOARDER, FRIEND TO THE TREES</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	
 	<body>
 		<nav>
     		<ul>
