@@ -1,5 +1,3 @@
-## **RECENT WORKS BY SAMUEL (me)** 
-
 <!DOCTYPE html>
 <html>
 	<head>
