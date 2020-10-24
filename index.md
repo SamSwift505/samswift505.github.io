@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Samuel Swift, Epidemiologist, Skateboarder, Friend to the Trees, Drawer</title>
+		###Samuel Swift, Epidemiologist, Skateboarder, Friend to the Trees, Drawer###
 	</head>
 	<body>
 		<nav>
