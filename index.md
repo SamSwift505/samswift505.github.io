@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SamuelSwift, Epidemiologist, Art, Skateboarder, Friend to the Trees
+title: Samuel Swift, Epidemiologist, Art, Skateboarder, Friend to the Trees
 ---
 <div class="blurb">
 	<h1>Hi there, I'm Samuel Swift!</h1>
