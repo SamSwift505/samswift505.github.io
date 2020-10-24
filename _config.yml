@@ -2,3 +2,5 @@ name: Samuel Swift
 markdown: kramdown
 
 
+
+theme: jekyll-theme-minimal
