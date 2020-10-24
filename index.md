@@ -1,4 +1,4 @@
-###Samuel Swift, Epidemiologist, Artist, Skateboarder, Friend to the Trees ###
+### Samuel Swift, Epidemiologist, Artist, Skateboarder, Friend to the Trees ###
 ---
 <div class="blurb">
 	<h1>Samuel Swift</h1>
