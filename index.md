@@ -1,5 +1,7 @@
-### Samuel Swift, Epidemiologist, Artist, Skateboarder, Friend to the Trees ###
+---
+layout: default
+---
 
 
-	<a href="/pdfs/CRYBOX_V3.pdf" class="image fit"></a>
+
 
