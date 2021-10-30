@@ -17,7 +17,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>Samuel Swift</h1>
-				<p>Artist, Epidemiologist, Skateboarder, Friend to the Trees<a href="/about">Read more about my life...</a></p>
+				<p>Artist, Epidemiologist, Skateboarder, Friend to the Trees <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
