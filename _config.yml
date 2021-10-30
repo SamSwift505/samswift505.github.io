@@ -1,6 +1,3 @@
-name: Samuel Swift
-markdown: kramdown
-
-
-
-theme: jekyll-theme-minimal
+permalink: /:categories/:year/:month/:title/
+title: Samuel Swifts Personal Art Website Built in Github
+description: Samuel Swift (me) ia and epidemiologist, artist, skateboarder, and friend to the trees 
