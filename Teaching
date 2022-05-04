@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+   <html>    
+      <head>      
+         <title>Samuel Swifts Famous Website</title>    
+         <style>
+         h1 {text-align: center;font-size:70px;}
+         h2 {text-align: left;font-size:60px;}
+         h3 {text-align: left;font-size:30px;}
+         div {text-align: center;}
+         </style>
+      </head> 
+      
+      <body>      
+         <h1 style="color:black;font-size:70px;">Samuel Swift</h1>      
+         <p style="color:black;font-size:30px;">Hello, my name is Samuel Swift and I am a printmaker, epidemiologist and skateboarder. 
+            I made this website to showcase my art, and play around on github. 
+            This website is intended as an art portfolio first, but I also link some of my epidemiology work.   
+            I am new to github web development but I have been doing epidemiology and art for a while. Behold my website!</p>    
+      </body>
+</html>
+
+<hr size="8" width="90%" color="red">  
+
+<h2 style="color:black">Art Projects</h2>
+
+  <body>
+    <h3>Crybox - A zine I made</h3>
+    <p style="color:black;font-size:30px;"><a href="/img/Crybox_V3.pdf">Click here to cry</a>.</p>
+  </body>
+
