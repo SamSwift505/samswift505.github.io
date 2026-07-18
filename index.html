@@ -11,76 +11,113 @@
             margin: 0;
             padding: 20px;
             font-family: Futura, sans-serif;
+            text-align: center;
         }
 
         h1 {
-            text-align: center;
-            font-size: clamp(2rem, 6vw, 4rem);
-        }
-
-        h2 {
-            text-align: center;
-            font-size: clamp(1.8rem, 5vw, 3rem);
-        }
-
-        h3 {
-            text-align: center;
-            font-size: clamp(1.2rem, 3vw, 2rem);
+            font-size: clamp(2.5rem, 6vw, 4rem);
+            margin-bottom: 10px;
         }
 
         p {
-            font-size: clamp(1rem, 2.5vw, 1.8rem);
+            font-size: clamp(1.2rem, 3vw, 1.8rem);
             line-height: 1.5;
+            max-width: 800px;
+            margin: 0 auto 30px auto;
         }
 
-        div {
-            text-align: center;
+        hr {
+            border: none;
+            height: 8px;
+            background-color: red;
+            width: 90%;
+            margin: 40px auto;
         }
 
-        img {
-            display: block;
-            max-width: 100%;
+        nav {
+            display: flex;
+            justify-content: space-around;
+            align-items: flex-start;
+            flex-wrap: wrap;
+            gap: 40px;
+            padding: 20px;
+        }
+
+        nav a {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-decoration: none;
+            color: #333;
+            font-size: 24px;
+            font-weight: bold;
+            max-width: 350px;
+        }
+
+        nav img {
+            width: 100%;
+            max-width: 350px;
             height: auto;
-            margin: 20px auto;
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+
+        /* Mobile layout */
+        @media (max-width: 768px) {
+            nav {
+                flex-direction: column;
+                gap: 30px;
+                padding: 10px;
+            }
+
+            nav a {
+                font-size: 20px;
+            }
+
+            nav img {
+                max-width: 250px;
+            }
+
+            p {
+                padding: 0 10px;
+            }
         }
     </style>
 </head>
 
-      
-      <body>      
-         <h1 style="color:black;font-size:70px;">Samuel Swift's Website</h1>      
-         <p style="color:black;font-size:30px; text-align:center;">Hello, my name is Samuel Swift and I am a printmaker, epidemiologist and skateboarder.  
-             <a href="mailto:samuelswift85@gmail.com">  Contact me here</a> </p>    
-      </body>
+<body>
+
+    <h1>Samuel Swift's Website</h1>
+
+    <p>
+        Hello, my name is Samuel Swift and I am a printmaker, epidemiologist and skateboarder.
+        <a href="mailto:samuelswift85@gmail.com">Contact me here</a>
+    </p>
+
+    <hr>
+
+    <nav>
+        <a href="printmaking.html">
+            <img src="img/wr_print_crop.JPG" alt="printmaking">
+            <span>Printmaking</span>
+        </a>
+
+        <a href="otherart.html">
+            <img src="img/map_crop.JPG" alt="other art projects">
+            <span>Other art projects</span>
+        </a>
+
+        <a href="https://www.youtube.com/@samuelswift4795">
+            <img src="img/wryoutube.JPG" alt="youtube">
+            <span>Animation / Skating</span>
+        </a>
+    </nav>
+
+    <hr>
+
+</body>
 </html>
 
-<hr size="8" width="90%" color="red">  
-      
-
-<!-- This spreads the three links evenly across the entire row -->
-<nav style="display: flex; justify-content: space-around; align-items: center; padding: 20px; width: 100%;">
-    
-  <!-- Printmaking -->
-  <a href="printmaking.html" style="display: flex; flex-direction: column; align-items: center; text-align: center; text-decoration: none; color: #333; font-size: 24px; font-weight: bold;">
-    <img src="img/wr_print_crop.JPG" alt="print" style="max-width: 350px; width: 100%; height: auto;">
-    <span>Printmaking</span>
-  </a>
-  
-  <!-- Other Art Projects -->
-  <a href="otherart.html" style="display: flex; flex-direction: column; align-items: center; text-align: center; text-decoration: none; color: #333; font-size: 24px; font-weight: bold;">
-    <img src="img/map_crop.JPG" alt="other art" style="max-width: 350px; width: 100%; height: auto;">
-    <span>Other art projects</span>
-  </a>
-
-<!-- Youtube -->
-  <a href="https://www.youtube.com/@samuelswift4795" style="display: flex; flex-direction: column; align-items: center; text-align: center; text-decoration: none; color: #333; font-size: 24px; font-weight: bold;">
-    <img src="img/wryoutube.JPG" alt="yt" style="max-width: 350px; width: 100%; height: auto;">
-    <span>Animation/skating</span>
-  </a>
-
-</nav>
-
-<hr size="8" width="90%" color="red">  
 
       
 
